@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ANDROID_UF2</string>
+    <string name="name">Name</string>
+    <string name="click">0</string>
+    <string name="START">START</string>
+    <string name="STOP">STOP</string>
+</resources>
